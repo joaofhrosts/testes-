@@ -1,0 +1,31 @@
+.lw { font-size: 60px; }    
+   
+   
+    .banner{ 
+        text-align: center;
+    }
+
+.banner img{
+    max-width: 100%;
+    height: auto;
+}
+
+.personagens{ 
+    display: flex;
+    justify-content: espace-around;
+    margin-bottom: 20px;
+}
+ .autor{
+    text-align: center;
+
+ }
+
+ .autor img{
+    width: 100px;
+    height: 150px;
+
+ }
+
+ 
+
+
